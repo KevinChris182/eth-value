@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Get ETH value of BAYC Contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KevinChris182",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "bignumber.js": "^9.1.1",
+    "web3": "^1.8.2"
+  }
+}
